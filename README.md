@@ -11,4 +11,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FareesHussain&show_icons=true&layout=compact&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://komarev.com/ghpvc/?username=FareesHussain&color=blue&style=flat-square" align="right" />
+<!-- <img src="https://komarev.com/ghpvc/?username=FareesHussain&color=blue&style=flat-square" align="right" /> -->
