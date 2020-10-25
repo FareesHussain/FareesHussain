@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I am Farees Hussain
-### a full stack web developer and Native Android Developer
+### a Full Stack Web Developer and Native Android Developer
 
 - 🔭 I’m currently looking for some interesting projects to work!
 - 🌱 I’m currently learning 📱 Android 
